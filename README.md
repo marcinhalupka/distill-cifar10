@@ -32,15 +32,6 @@ We take the core ideas from that article and bring them to life by:
 
 ---
 
-## ✍️ Background Reading
-
-Want to understand **why distillation works** and when to use it?  
-Check out the full explanation here:
-
-📖 [What the heck is model distillation – and why should you care?](https://medium.com/@marcinhaupka/what-the-heck-is-model-distillation-and-why-should-you-care-058d9f08d460)
-
----
-
 ## 📎 License
 
 MIT — use it freely and remix for your own projects.
